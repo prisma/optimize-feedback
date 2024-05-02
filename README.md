@@ -1,2 +1,3 @@
-# optimize-community
+# Optimize Community
+
 Community feedback on Prisma Optimize
